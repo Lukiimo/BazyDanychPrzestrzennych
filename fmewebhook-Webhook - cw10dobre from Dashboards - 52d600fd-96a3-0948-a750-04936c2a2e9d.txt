@@ -1,0 +1,26 @@
+Name:
+Webhook - cw10dobre from Dashboards - 52d600fd-96a3-0948-a750-04936c2a2e9d
+
+Token:
+1592b574dab9cca516159fe2e010cf2e28ef1822
+
+Description:
+Allow users to run Dashboards/cw10dobre without logging in
+
+Created Date:
+2024-01-20T16:44:05.815Z
+
+Expiration Date:
+2025-01-19T23:00:00.000Z
+
+Enabled:
+true
+
+Authorization with Header:
+http://DESKTOP-OQNRN0N/fmedatadownload/Dashboards/cw10dobre.fmw?cloud_coverage=50&email_klienta=jannepomucen054%40gmail.com&date_start=20230701&date_finish=20230801&API=&powiat=Krak%C3%B3w&SourceDataset_SHAPEFILE=D%3A%5CSQL%5Ccw10%5Cpowiaty%5Cpowiaty.shp&DestDataset_GEOTIFF=D%3A%5CSemestr%20V%5CBazy%20danych%20Przestrzennych%5Ccw10&opt_showresult=false&opt_servicemode=sync
+Header Key: Authorization
+Header Value: fmetoken token=1592b574dab9cca516159fe2e010cf2e28ef1822
+
+Authorization with Query String:
+http://DESKTOP-OQNRN0N/fmedatadownload/Dashboards/cw10dobre.fmw?cloud_coverage=50&email_klienta=jannepomucen054%40gmail.com&date_start=20230701&date_finish=20230801&API=&powiat=Krak%C3%B3w&SourceDataset_SHAPEFILE=D%3A%5CSQL%5Ccw10%5Cpowiaty%5Cpowiaty.shp&DestDataset_GEOTIFF=D%3A%5CSemestr%20V%5CBazy%20danych%20Przestrzennych%5Ccw10&opt_showresult=false&opt_servicemode=sync&token=1592b574dab9cca516159fe2e010cf2e28ef1822
+
